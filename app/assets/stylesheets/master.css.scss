@@ -1,4 +1,4 @@
-
+@import url(https://fonts.googleapis.com/css?family=Quicksand);
 
 .clear {
 	clear:both;
@@ -36,7 +36,7 @@
 	color:black;
 	font-size: 25px;
 	border-bottom: 1px solid #dfdfdf;
-	font-family: 'quicksandregular', sans-serif;
+	font-family: 'Quicksand', sans-serif;
 	font-weight: bold;
 }
 
@@ -49,18 +49,20 @@ hr {
 }
 
 h1 {
-	font-family: 'quicksandregular', Helvetica, sans-serif;
+	font-family: 'Quicksand', Helvetica, sans-serif;
 	font-size: 48px;
-	font-weight: semi-bold;
+	font-weight: bold;
 }
 
 h2 {
-	font-family: 'quicksanditalic', Helvetica, sans-serif;
+	font-family: 'Quicksand', Helvetica, sans-serif;
+	font-style: italic;
 }
 
 .next-quote {
 	color: #f84342;
-	font-family: 'quicksanditalic', sans-serif;
+	font-family: 'Quicksand', sans-serif;
+	font-style: italic;
 	font-size: 20px;
 }
 
@@ -91,7 +93,7 @@ h2 {
 
 h2 span {
 	color: #dddddd;
-	font-family: 'quicksandregular', sans-serif;
+	font-family: 'Quicksand', sans-serif;
 	font-weight: bold;
 }
 
